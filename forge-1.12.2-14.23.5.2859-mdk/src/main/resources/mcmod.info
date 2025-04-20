@@ -1,16 +1,16 @@
 [
-  {
-    "modid": "testingmod",
-    "name": "Testing Mod",
-    "description": "echen0719's Test Mod",
-    "version": "1.0",
-    "mcversion": "1.12.2",
-    "url": "",
-    "updateUrl": "",
-    "authorList": ["echen0719"],
-    "credits": "Created by @echen0719",
-    "logoFile": "",
-    "screenshots": [],
-    "dependencies": [""]
-  }
+{
+  "modid": "testingmod",
+  "name": "echen0719's Test Mod",
+  "description": "Am I good at making descriptions?",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["echen0719"],
+  "credits": "Eric Chen | echen0719.github.io",
+  "logoFile": "assets/blockhead.png",
+  "screenshots": [],
+  "dependencies": []
+}
 ]

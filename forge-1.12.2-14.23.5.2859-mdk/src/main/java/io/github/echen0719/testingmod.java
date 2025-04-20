@@ -7,10 +7,10 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = testingmod.MODID, name = testingmod.NAME, version = testingmod.VERSION, useMetadata = true)
-public class testingmod // and lowercase for some reason
+@Mod(modid = TestingMod.MODID, name = TestingMod.NAME, version = TestingMod.VERSION)
+public class TestingMod
 {
-    public static final String MODID = "testingmod"; // has to be same as class
+    public static final String MODID = "testingmod";
     public static final String NAME = "echen0719's Test Mod";
     public static final String VERSION = "1.0";
 

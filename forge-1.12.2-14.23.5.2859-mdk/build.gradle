@@ -83,18 +83,14 @@ dependencies {
 
 // Example for how to get properties into the manifest for reading by the runtime..
 jar {
-    from {
-        sourceSets.main.resources
-    }
-
     manifest {
         attributes([
-            "Specification-Title": "testingmod",
-            "Specification-Vendor": "echen0719",
+            "Specification-Title": "examplemod",
+            "Specification-Vendor": "examplemodsareus",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,
             "Implementation-Version": "${version}",
-            "Implementation-Vendor" :"echen0719",
+            "Implementation-Vendor" :"examplemodsareus",
             "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
@@ -115,14 +111,6 @@ publishing {
     repositories {
         maven {
             url "file:///${project.projectDir}/mcmodsrepo"
-        }
-    }
-}
-
-sourceSets {
-    main {
-        resources {
-            srcDir 'src/main/resources'
         }
     }
 }
