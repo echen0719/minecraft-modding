@@ -8,8 +8,8 @@
   "url": "",
   "updateUrl": "",
   "authorList": ["echen0719"],
-  "credits": "Eric Chen | echen0719.github.io",
-  "logoFile": "assets/blockhead.png",
+  "credits": "echen0719.github.io",
+  "logoFile": "",
   "screenshots": [],
   "dependencies": []
 }
