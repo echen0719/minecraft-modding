@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+		"model": "testingmod:quartz_block" 
+		}
+    }
+}

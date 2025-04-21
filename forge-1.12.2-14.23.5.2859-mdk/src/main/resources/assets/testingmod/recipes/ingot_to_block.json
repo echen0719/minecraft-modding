@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+
+	"pattern":
+	[
+		"QQQ",
+		"QQQ",
+		"QQQ"
+	],
+
+	"key":
+	{
+		"Q":
+		{
+			"item": "testingmod:quartz_ingot"
+		}
+	},
+
+	"result":
+	{
+		"item": "testingmod:quartz_block",
+			"count": 1
+	}
+}
