@@ -1,14 +1,14 @@
 [
 {
-  "modid": "testingmod",
-  "name": "echen0719's Test Mod",
+  "modid": "quartzmod",
+  "name": "Quartz Mod",
   "description": "Am I good at making descriptions?",
   "version": "1.0",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
   "authorList": ["echen0719"],
-  "credits": "echen0719.github.io",
+  "credits": "@echen0719",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
