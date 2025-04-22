@@ -1,14 +1,16 @@
-package io.github.echen0719.quartzmod.items;
+package io.github.echen0719.quartzmod.items.tools;
 
-import net.minecraft.item.Item;
 import io.github.echen0719.quartzmod.Main;
 import io.github.echen0719.quartzmod.init.ModItems;
 import io.github.echen0719.quartzmod.util.IHasModel;
-import io.github.echen0719.quartzmod.util.Reference;
-import net.minecraft.creativetab.CreativeTabs;
 
-public class ItemBase extends Item implements IHasModel {
-	public ItemBase(String name) {
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item.ToolMaterial;
+import net.minecraft.item.ItemSword;
+
+public class ToolSword extends ItemSword implements IHasModel {
+	public ToolSword(String name, ToolMaterial material) {
+		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setCreativeTab(CreativeTabs.MATERIALS);
