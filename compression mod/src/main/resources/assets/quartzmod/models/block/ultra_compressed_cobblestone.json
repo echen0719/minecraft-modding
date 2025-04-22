@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "compressionmod:blocks/ultra_compressed_cobblestone"
+	}
+}

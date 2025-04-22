@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+		"model": "compressionmod:hyper_compressed_cobblestone" 
+		}
+    }
+}
