@@ -1,3 +1,9 @@
 item.quartz_ingot.name=Quartz Ingot
 
 tile.quartz_ingot_block.name=Quartz Ingot Block
+
+item.quartz_sword.name=Quartz Sword
+item.quartz_axe.name=Quartz Axe
+item.quartz_pickaxe.name=Quartz Pickaxe
+item.quartz_shovel.name=Quartz Shovel
+item.quartz_hoe.name=Quartz Hoe
