@@ -1,5 +1,6 @@
 package io.github.echen0719.quartzmod;
 
+import io.github.echen0719.quartzmod.init.ModSmelts;
 import io.github.echen0719.quartzmod.proxy.CommonProxy;
 import io.github.echen0719.quartzmod.util.Reference;
 import net.minecraftforge.fml.common.Mod;
@@ -25,7 +26,7 @@ public class Main {
 	
 	@EventHandler
 	public static void init(FMLInitializationEvent event) {
-		
+		ModSmelts.init();
 	}
 	
 	@EventHandler
