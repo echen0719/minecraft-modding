@@ -1,8 +1,8 @@
 [
 {
-  "modid": "quartzmod",
-  "name": "Quartz Mod",
-  "description": "Am I good at making descriptions?",
+  "modid": "compressionmod",
+  "name": "Compression Mod",
+  "description": "I will make this description later on...",
   "version": "1.0",
   "mcversion": "1.12.2",
   "url": "",
