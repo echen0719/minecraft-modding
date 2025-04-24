@@ -8,7 +8,7 @@ public class SuperCompressedCobblestone extends BlockBase {
 		super(name, material);
 		setSoundType(SoundType.STONE);
 		setHardness(3.5F);
-		setResistance(8.1F);
+		setResistance(12.0F);
 		setHarvestLevel("pickaxe", 1); // somewhat hard block
 		// setLightLevel(1.0F);
 	}
