@@ -3,9 +3,8 @@
 
 	"pattern":
 	[
-		"XXX",
-		"XXX",
-		"XXX"
+		"X X",
+		"X X"
 	],
 
 	"key":
@@ -18,7 +17,7 @@
 
 	"result":
 	{
-		"item": "quartzmod:quartz_ingot_block",
+		"item": "quartzmod:quartz_boots",
 			"count": 1
 	}
 }

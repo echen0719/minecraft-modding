@@ -12,13 +12,13 @@
 	{
 		"X":
 		{
-			"item": "quartzmod:quartz_ingot"
+			"item": "quartzmod:quartz_nugget"
 		}
 	},
 
 	"result":
 	{
-		"item": "quartzmod:quartz_ingot_block",
+		"item": "quartzmod:quartz_ingot",
 			"count": 1
 	}
 }

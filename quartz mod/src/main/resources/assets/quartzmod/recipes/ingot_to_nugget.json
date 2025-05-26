@@ -1,0 +1,18 @@
+{ 
+	"type": "minecraft:crafting_shapeless",
+
+	"ingredients": 
+	[
+
+	{
+		"item": "quartzmod:quartz_ingot"
+	}
+
+	],
+
+	"result": 
+	{
+		"item": "quartzmod:quartz_nugget",
+		"count": 9
+	}
+}

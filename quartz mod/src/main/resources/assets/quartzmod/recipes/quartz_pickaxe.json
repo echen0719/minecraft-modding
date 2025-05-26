@@ -4,8 +4,8 @@
 	"pattern":
 	[
 		"XXX",
-		"XXX",
-		"XXX"
+		" S ",
+		" S "
 	],
 
 	"key":
@@ -13,12 +13,16 @@
 		"X":
 		{
 			"item": "quartzmod:quartz_ingot"
+		},
+		"S":
+		{
+			"item": "minecraft:stick"
 		}
 	},
 
 	"result":
 	{
-		"item": "quartzmod:quartz_ingot_block",
+		"item": "quartzmod:quartz_pickaxe",
 			"count": 1
 	}
 }
